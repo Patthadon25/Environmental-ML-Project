@@ -4,9 +4,9 @@
 **Project Type:** Environmental Data Science | Machine Learning | Regression Analysis
 
 **Prepared by:** 
-    1. Patthadon Maneeratana — 6631125721
-    2. Pattaradanai Yoosuk — 6631128621
-    3. Ratchapol Kamtaedthong — 6631134321
+- **Patthadon Maneeratana** (`6631125721`)
+- **Pattaradanai Yoosuk** (`6631128621`)
+- **Ratchapol Kamtaedthong** (`6631134321`)
 ---
 
 # 🇹🇭 ภาษาไทย
@@ -190,7 +190,10 @@ Furthermore, the SHAP Beeswarm plot indicated that higher PM2.5 and PM10 concent
 
 ---
 
-**Project Author:** [Your Full Name]
+**Project Author:** 
+- **Patthadon Maneeratana** (`6631125721`)
+- **Pattaradanai Yoosuk** (`6631128621`)
+- **Ratchapol Kamtaedthong** (`6631134321`)
 
-**Technologies:** Python | Pandas | NumPy | Scikit-learn | SHAP | Matplotlib | Seaborn
+**Technologies:** Python | Pandas | NumPy | Scikit-learn | SHAP 
 
